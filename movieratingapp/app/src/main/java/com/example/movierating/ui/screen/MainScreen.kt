@@ -1,7 +1,4 @@
-<<<<<<< HEAD:movieratingapp/app/src/main/java/com/example/movierating/ui/screen/MainScreen.kt
-package com.example.movierating.ui.screen
 
-=======
 package com.example.movierating.ui.screen
 
 import androidx.compose.foundation.layout.Column
@@ -41,7 +38,7 @@ fun MovieItem(movie: Movie, onMovieRated: (Movie, Int) -> Unit) {
     Column(Modifier.padding(16.dp)) {
         Text(text = movie.title, style = MaterialTheme.typography.titleMedium)
         Row {
-            (1..5).forEach { star ->
+            (1..5).forEach { star -> // 5 stars for each we click we get onclick of movie we rate
                 IconButton(onClick = { onMovieRated(movie, star) }) {
                     Icon(Icons.Default.Star, contentDescription = "$star stars")
                 }
@@ -50,4 +47,3 @@ fun MovieItem(movie: Movie, onMovieRated: (Movie, Int) -> Unit) {
         Divider()
     }
 }
->>>>>>> 082d619 (added logic to login and main screens, on how to display content, organized files in folders):app/src/main/java/com/example/movierating/ui/screen/MainScreen.kt

@@ -1,5 +1,9 @@
 
 package com.example.movierating.Data
 
-class Movie {
-}
+@Entity
+data class Movie(
+    @PrimaryKey val id: Int,
+    val title: String,
+    val pictureUrl: String
+)

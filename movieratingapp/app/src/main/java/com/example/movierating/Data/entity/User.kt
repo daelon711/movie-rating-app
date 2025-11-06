@@ -1,5 +1,9 @@
 
 package com.example.movierating.Data
 
-class User {
+@Entity
+data class User {
+    @PrimaryKey (autoGenerate = true) val id:Int,
+            val username: String,
+                    val password: String
 }

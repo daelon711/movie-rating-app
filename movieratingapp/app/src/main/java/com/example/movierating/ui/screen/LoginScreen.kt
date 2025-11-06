@@ -1,7 +1,4 @@
-<<<<<<< HEAD:movieratingapp/app/src/main/java/com/example/movierating/ui/screen/LoginScreen.kt
-package com.example.movierating.ui.screen
 
-=======
 package com.example.movierating.ui.screen
 
 import androidx.compose.runtime.Composable
@@ -44,4 +41,3 @@ fun LoginScreen(onLoginSuccess: () -> Unit) {
         }
     }
 }
->>>>>>> 082d619 (added logic to login and main screens, on how to display content, organized files in folders):app/src/main/java/com/example/movierating/ui/screen/LoginScreen.kt
