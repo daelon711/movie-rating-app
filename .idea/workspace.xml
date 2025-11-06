@@ -27,24 +27,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7823a79-2161-4a60-b84c-b26cc63a954f" name="Changes" comment="added logic to login and main screens, on how to display content, organized files in folders">
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/AppDatabase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/MovieDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/RatingDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/UserDao.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/entity/Movie.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/entity/Rating.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/entity/User.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/repository/MovieRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/Movie.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/Rating.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/User.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/LoginActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/WatchedActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/WatchedActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/LoginScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/LoginScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/MainScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/MainScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/MovieListScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/MovieListScreen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/WatchedScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/ui/screen/WatchedScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/MovieDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/MovieDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/RatingDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/RatingDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/UserDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieratingapp/app/src/main/java/com/example/movierating/Data/dao/UserDao.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

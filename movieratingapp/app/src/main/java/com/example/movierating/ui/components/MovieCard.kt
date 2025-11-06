@@ -1,0 +1,1 @@
+//erusable card for displaiying movies info and stars used on watched and  main screen

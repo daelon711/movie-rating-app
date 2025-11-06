@@ -1,3 +1,4 @@
+// form inputs login button calls viewmodel to login
 
 package com.example.movierating.ui.screen
 

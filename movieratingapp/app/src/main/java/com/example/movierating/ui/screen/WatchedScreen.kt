@@ -1,3 +1,5 @@
+// movies rated by users, shows db via viewmodel
+
 
 package com.example.movierating.ui.screen
 

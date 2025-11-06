@@ -5,5 +5,5 @@ package com.example.movierating.Data
 data class Movie(
     @PrimaryKey val id: Int,
     val title: String,
-    val pictureUrl: String
+    val posterUrl: String,
 )

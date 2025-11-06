@@ -134,5 +134,4 @@ dependencies {
     // elene - im adding dependencies of room for sqlite
     implementation(libs.room.runtime)
     ksp(libs.room.compiler)
->>>>>>> 082d619 (added logic to login and main screens, on how to display content, organized files in folders):app/build.gradle.kts
 }

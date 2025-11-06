@@ -1,3 +1,4 @@
+// shows top movies with lazycolumn with moving cards and clickable stars, gets data from viewmodel
 
 package com.example.movierating.ui.screen
 
