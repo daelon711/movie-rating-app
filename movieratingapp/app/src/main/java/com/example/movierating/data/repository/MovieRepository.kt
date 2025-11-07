@@ -7,17 +7,18 @@
 
 package com.example.movierating.data.repository
 
-import MovieDao
-import RatingDao
-import UserDao
-import RatedMovieRow
+
+import com.example.movierating.data.db.dao.MovieDao
+import com.example.movierating.data.db.dao.RatingDao
+import com.example.movierating.data.db.dao.UserDao
+import com.example.movierating.data.db.dao.RatedMovieRow
 import com.example.movierating.data.network.ApiClient
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
-import com.example.movierating.data.MovieEntity
-import com.example.movierating.data.RatingEntity
-import com.example.movierating.data.UserEntity
+import com.example.movierating.data.db.entityRoom.MovieEntity
+import com.example.movierating.data.db.entityRoom.RatingEntity
+import com.example.movierating.data.db.entityRoom.UserEntity
 
 import com.example.movierating.data.network.MovieData
 import com.example.movierating.data.network.RatingSend
@@ -58,7 +59,7 @@ class MovieRepository(
             val userData = ApiClient.apiService.loginUser(
                 com.example.movierating.data.network.UserSend(username, password)
             )
-            val entity = UserEntity(id = userData.id, username = userData.username)
+            val entity = UserEntity(id = userData.id, username = userData.username, password=userData.password)
             userDao.upsert(entity)
             entity
         }

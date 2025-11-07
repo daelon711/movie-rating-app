@@ -1,5 +1,4 @@
-
-package com.example.movierating.data
+package com.example.movierating.data.db.entityRoom
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
@@ -8,7 +7,7 @@ import androidx.room.PrimaryKey
 data class RatingEntity(
     @PrimaryKey(autoGenerate = true) val id: Int=0,
     val rating: Int,
-    val userid: Int,
-    val movieid: Int,
+    val userId: Int,
+    val movieId: Int,
 
     )

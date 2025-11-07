@@ -48,7 +48,8 @@ data class UserSend(
 // For getting user info (GET)
 data class UserData(
     val id: Int,
-    val username: String
+    val username: String,
+    val password: String
 )
 
 //RETORFIT  interface for endpoints, so like json setup like in backend

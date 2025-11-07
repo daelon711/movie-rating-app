@@ -9,10 +9,12 @@ import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.example.movierating.data.viewModel.MainViewModel
-import com.example.movierating.ui.main.MovieCard
+import com.example.movierating.ui.components.MovieCard
 import androidx.compose.foundation.lazy.items
+import androidx.compose.material3.TopAppBar
 
 //@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun MainScreen(
     vm: MainViewModel,

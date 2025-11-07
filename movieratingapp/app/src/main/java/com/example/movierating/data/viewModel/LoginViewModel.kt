@@ -5,7 +5,7 @@ package com.example.movierating.data.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.movierating.data.UserEntity
+import com.example.movierating.data.db.entityRoom.UserEntity
 import com.example.movierating.data.repository.MovieRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow

@@ -8,6 +8,7 @@ package com.example.movierating.data.network
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
+import retrofit2.converter.gson.GsonConverterFactory
 
 
 object ApiClient {
@@ -17,7 +18,7 @@ object ApiClient {
 
     private val retrofit = Retrofit.Builder()
         .baseUrl("https://api.themoviedb.org/3/") // TODO change
-        .addConverterFactory(MoshiConverterFactory.create())
+        .addConverterFactory(GsonConverterFactory.create())
         .client(okHttp)
         .build()
 

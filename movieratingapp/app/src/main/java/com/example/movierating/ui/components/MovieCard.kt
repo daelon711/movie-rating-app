@@ -1,7 +1,7 @@
 //erusable card for displaiying movies info and stars used on watched and  main screen
 
 // ui/main/MovieCard.kt
-package com.example.movierating.ui.main
+package com.example.movierating.ui.components
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.*
@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.unit.dp
-import com.example.movierating.data.MovieEntity
+import com.example.movierating.data.db.entityRoom.MovieEntity
 import coil.compose.rememberAsyncImagePainter
 
 @Composable

@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\90dcd023f4426f9864e61fb8d1e523c9\transformed\coil-compose-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\33e7974f64e9eda63802d4d3a800d494\transformed\navigation-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\a23bae7669bbd5e7738c3435a4637d88\transformed\navigation-common-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\beb27c8c2fc2cbe7537fd3e09cda9392\transformed\navigation-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1bc1f626f62a75456528c2b49ec9a2c2\transformed\coil-compose-base-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\626b329bc0863453d7d47e45a738c353\transformed\coil-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:17:1-31:12
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\7d9ad713b77d21c53f064fbd61628206\transformed\coil-base-2.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\5a3765d70498dcc03f6020b8d36354e5\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c98c35f4d4838035092b951871c15eb9\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\34c6549e803ffce2d718abd68923b0ef\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\ced066969772fb4c0118ed6f34f98be3\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\86ba4bf451aff95054304f92c4eb9147\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\9b616f328e4d07c8e6a4ae574109f52c\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\046439cc3686f8e34ed2b3c9a4daa3b2\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\11fe55e80739ace682565ae4478a252f\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\7ece88a3887a8e92567f6c81d11d310a\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\454d7f187c2c05b6f96c35b75c59d1d1\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d67dbab0dd787916b71a653e2ceba4e9\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\0e4c1a217839dca7d0af99a65c942ada\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d8eed691f73eca9483a963f08c1b4a7d\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\59c27f2faef49ab5337eae83a7550a66\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\51cd3f6caf026a48eb4313052961b162\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\18f6b8fdbd9a8c4aba24b4fe04de7306\transformed\savedstate-ktx-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\13c33a7403688a5cd290c76fe0e78f0a\transformed\savedstate-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\78d002dec0b4dcabe8ea2158769fed9c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\52ceb46bfc16860f6e8289356902b1b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\3072d2b68c3bad40698eca7be167b730\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\4ad1d651d7db970279f46aa3a9baabeb\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b29a45e2912e406965caec0722591a3a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\4543ddfef72ad96b70afc89c2678e16a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6abf2450b1f460535ec9211d59d4c02c\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\828ecbdabc49e5c218d27b0165cca120\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\fe0a2f97d0f813373ec906fb3b16b3eb\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\298cfe6584ce69614df95daa9cf5e587\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\69015396aeb3d27d784f4afe6ea62548\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b95ea3cbcf398dc2c8805dd3b5cdfbb4\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6e335807a05b537a62a00f8ab404c810\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c03241a237dc534e8e33fc5cbc8e7800\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\916822886df9ce77655d5ea368b915a6\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1d4da65b5ec891186ae40974a52a643c\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\eeebcef33afb4c4b28205e87874de07d\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\784813d6c6826f83ffb708f00f8d877f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f2a39ca2ae39c016757892c98ce622f\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\bac792ea88ced8e9fde8f808ab3455f9\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\eac1d66010fdb144ebe7096e4087707e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\39d8a7f768523f5989afef042378ef17\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\ebeaaa5ff88b518f394fb60bc8904154\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\234c39ece6510b47c74f5b7924601bf2\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\8a145ab4c5561100ebcf8c6569c5639d\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ekapa\.gradle\caches\8.13\transforms\4f9dc5e879fe493099b0b9d6f09caf4e\transformed\exifinterface-1.3.7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\e1b581dfe2dc5fd0913880182bdc232b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\1117d35d4d554e168410370dc95e7e40\transformed\sqlite-framework\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\7c693382c60a43d8577f0c1728ba8860\transformed\sqlite\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\17ecc37d0a065a422aa787007648907c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\00d65059f542482b749a9e7666b0ed8b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6c78ce03167e0df9d18f657725cf6581\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+	package
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:6:5-26:19
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:6:5-26:19
+MERGED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\e1b581dfe2dc5fd0913880182bdc232b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\e1b581dfe2dc5fd0913880182bdc232b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:11:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:9:9-54
+	android:roundIcon
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:14:9-52
+	android:dataExtractionRules
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:8:9-65
+activity#com.example.movierating.MainActivity
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:15:9-25:20
+	android:label
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:18:13-45
+	android:exported
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\90dcd023f4426f9864e61fb8d1e523c9\transformed\coil-compose-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\90dcd023f4426f9864e61fb8d1e523c9\transformed\coil-compose-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\33e7974f64e9eda63802d4d3a800d494\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\33e7974f64e9eda63802d4d3a800d494\transformed\navigation-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\a23bae7669bbd5e7738c3435a4637d88\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\a23bae7669bbd5e7738c3435a4637d88\transformed\navigation-common-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\beb27c8c2fc2cbe7537fd3e09cda9392\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose-android:2.9.6] C:\Users\ekapa\.gradle\caches\8.13\transforms\beb27c8c2fc2cbe7537fd3e09cda9392\transformed\navigation-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1bc1f626f62a75456528c2b49ec9a2c2\transformed\coil-compose-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-compose-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1bc1f626f62a75456528c2b49ec9a2c2\transformed\coil-compose-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\626b329bc0863453d7d47e45a738c353\transformed\coil-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\626b329bc0863453d7d47e45a738c353\transformed\coil-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:21:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\7d9ad713b77d21c53f064fbd61628206\transformed\coil-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [io.coil-kt:coil-base:2.6.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\7d9ad713b77d21c53f064fbd61628206\transformed\coil-base-2.6.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\5a3765d70498dcc03f6020b8d36354e5\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.accompanist:accompanist-drawablepainter:0.32.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\5a3765d70498dcc03f6020b8d36354e5\transformed\accompanist-drawablepainter-0.32.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c98c35f4d4838035092b951871c15eb9\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c98c35f4d4838035092b951871c15eb9\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\34c6549e803ffce2d718abd68923b0ef\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\34c6549e803ffce2d718abd68923b0ef\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\ced066969772fb4c0118ed6f34f98be3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\ced066969772fb4c0118ed6f34f98be3\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\86ba4bf451aff95054304f92c4eb9147\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\86ba4bf451aff95054304f92c4eb9147\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\9b616f328e4d07c8e6a4ae574109f52c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\9b616f328e4d07c8e6a4ae574109f52c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\046439cc3686f8e34ed2b3c9a4daa3b2\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\046439cc3686f8e34ed2b3c9a4daa3b2\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\11fe55e80739ace682565ae4478a252f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\11fe55e80739ace682565ae4478a252f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\7ece88a3887a8e92567f6c81d11d310a\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\7ece88a3887a8e92567f6c81d11d310a\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\454d7f187c2c05b6f96c35b75c59d1d1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\454d7f187c2c05b6f96c35b75c59d1d1\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d67dbab0dd787916b71a653e2ceba4e9\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d67dbab0dd787916b71a653e2ceba4e9\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\0e4c1a217839dca7d0af99a65c942ada\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\0e4c1a217839dca7d0af99a65c942ada\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d8eed691f73eca9483a963f08c1b4a7d\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\d8eed691f73eca9483a963f08c1b4a7d\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\59c27f2faef49ab5337eae83a7550a66\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\59c27f2faef49ab5337eae83a7550a66\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\51cd3f6caf026a48eb4313052961b162\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\51cd3f6caf026a48eb4313052961b162\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\18f6b8fdbd9a8c4aba24b4fe04de7306\transformed\savedstate-ktx-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\18f6b8fdbd9a8c4aba24b4fe04de7306\transformed\savedstate-ktx-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\13c33a7403688a5cd290c76fe0e78f0a\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\13c33a7403688a5cd290c76fe0e78f0a\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\78d002dec0b4dcabe8ea2158769fed9c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\78d002dec0b4dcabe8ea2158769fed9c\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\52ceb46bfc16860f6e8289356902b1b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\52ceb46bfc16860f6e8289356902b1b7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\3072d2b68c3bad40698eca7be167b730\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\3072d2b68c3bad40698eca7be167b730\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\4ad1d651d7db970279f46aa3a9baabeb\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\4ad1d651d7db970279f46aa3a9baabeb\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b29a45e2912e406965caec0722591a3a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b29a45e2912e406965caec0722591a3a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\4543ddfef72ad96b70afc89c2678e16a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\4543ddfef72ad96b70afc89c2678e16a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6abf2450b1f460535ec9211d59d4c02c\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6abf2450b1f460535ec9211d59d4c02c\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\828ecbdabc49e5c218d27b0165cca120\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\828ecbdabc49e5c218d27b0165cca120\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\fe0a2f97d0f813373ec906fb3b16b3eb\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\fe0a2f97d0f813373ec906fb3b16b3eb\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\298cfe6584ce69614df95daa9cf5e587\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\298cfe6584ce69614df95daa9cf5e587\transformed\lifecycle-livedata-core-2.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\69015396aeb3d27d784f4afe6ea62548\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\69015396aeb3d27d784f4afe6ea62548\transformed\lifecycle-viewmodel-ktx-2.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b95ea3cbcf398dc2c8805dd3b5cdfbb4\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\b95ea3cbcf398dc2c8805dd3b5cdfbb4\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6e335807a05b537a62a00f8ab404c810\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6e335807a05b537a62a00f8ab404c810\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c03241a237dc534e8e33fc5cbc8e7800\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\c03241a237dc534e8e33fc5cbc8e7800\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\916822886df9ce77655d5ea368b915a6\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\916822886df9ce77655d5ea368b915a6\transformed\lifecycle-viewmodel-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1d4da65b5ec891186ae40974a52a643c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\1d4da65b5ec891186ae40974a52a643c\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\eeebcef33afb4c4b28205e87874de07d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\eeebcef33afb4c4b28205e87874de07d\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\784813d6c6826f83ffb708f00f8d877f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\784813d6c6826f83ffb708f00f8d877f\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f2a39ca2ae39c016757892c98ce622f\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f2a39ca2ae39c016757892c98ce622f\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\bac792ea88ced8e9fde8f808ab3455f9\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] C:\Users\ekapa\.gradle\caches\8.13\transforms\bac792ea88ced8e9fde8f808ab3455f9\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\eac1d66010fdb144ebe7096e4087707e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\eac1d66010fdb144ebe7096e4087707e\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\39d8a7f768523f5989afef042378ef17\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\39d8a7f768523f5989afef042378ef17\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\ebeaaa5ff88b518f394fb60bc8904154\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\ebeaaa5ff88b518f394fb60bc8904154\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\234c39ece6510b47c74f5b7924601bf2\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.5.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\234c39ece6510b47c74f5b7924601bf2\transformed\annotation-experimental-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\8a145ab4c5561100ebcf8c6569c5639d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\8a145ab4c5561100ebcf8c6569c5639d\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ekapa\.gradle\caches\8.13\transforms\4f9dc5e879fe493099b0b9d6f09caf4e\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.7] C:\Users\ekapa\.gradle\caches\8.13\transforms\4f9dc5e879fe493099b0b9d6f09caf4e\transformed\exifinterface-1.3.7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\e1b581dfe2dc5fd0913880182bdc232b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\e1b581dfe2dc5fd0913880182bdc232b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\1117d35d4d554e168410370dc95e7e40\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\1117d35d4d554e168410370dc95e7e40\transformed\sqlite-framework\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\7c693382c60a43d8577f0c1728ba8860\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-android:2.6.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\7c693382c60a43d8577f0c1728ba8860\transformed\sqlite\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\17ecc37d0a065a422aa787007648907c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\17ecc37d0a065a422aa787007648907c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\00d65059f542482b749a9e7666b0ed8b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\00d65059f542482b749a9e7666b0ed8b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6c78ce03167e0df9d18f657725cf6581\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\6c78ce03167e0df9d18f657725cf6581\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ekapa\OneDrive\Desktop\movieratingapp\movieratingapp\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime-android:2.8.3] C:\Users\ekapa\.gradle\caches\8.13\transforms\a1ce10df8ac6a7a775f995c8001ed24e\transformed\room-runtime\AndroidManifest.xml:25:13-74
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\e297bdd6c9025e75acb301d8f22fecec\transformed\ui-test-manifest-1.7.8\AndroidManifest.xml:24:13-63
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.8] C:\Users\ekapa\.gradle\caches\8.13\transforms\6f5718197909e622d749fc2b72971141\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\708126e5bee21bd3d2691839aea3e1d8\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\0abbc4bd3a9af6b9e96b552496343c3d\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\e4161da4169c7aeba554f5c1af14ec0c\transformed\lifecycle-process-2.9.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.movierating.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.movierating.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\ekapa\.gradle\caches\8.13\transforms\46680ba5fb83208c0ce3b1421ce09f8b\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\ekapa\.gradle\caches\8.13\transforms\534b6a86ef880d46db6da111619cba17\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

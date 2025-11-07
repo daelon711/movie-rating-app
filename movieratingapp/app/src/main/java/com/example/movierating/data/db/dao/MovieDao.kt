@@ -1,8 +1,9 @@
+package com.example.movierating.data.db.dao
 import androidx.room.Dao
 
 import androidx.room.Insert
 import androidx.room.Query
-import com.example.movierating.data.MovieEntity
+import com.example.movierating.data.db.entityRoom.MovieEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao

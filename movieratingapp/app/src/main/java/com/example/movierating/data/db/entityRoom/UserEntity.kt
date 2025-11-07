@@ -1,5 +1,4 @@
-
-package com.example.movierating.data
+package com.example.movierating.data.db.entityRoom
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

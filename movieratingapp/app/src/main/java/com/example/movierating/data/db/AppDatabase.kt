@@ -1,10 +1,15 @@
+package com.example.movierating.data.db
+
 import android.content.Context
 import androidx.room.Room
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.example.movierating.data.MovieEntity
-import com.example.movierating.data.UserEntity
-import com.example.movierating.data.RatingEntity
+import com.example.movierating.data.db.dao.MovieDao
+import com.example.movierating.data.db.dao.RatingDao
+import com.example.movierating.data.db.dao.UserDao
+import com.example.movierating.data.db.entityRoom.MovieEntity
+import com.example.movierating.data.db.entityRoom.UserEntity
+import com.example.movierating.data.db.entityRoom.RatingEntity
 
 
 //initializes ROOMDBS with daos

@@ -1,6 +1,7 @@
+package com.example.movierating.data.db.dao
 import androidx.room.Dao
 import androidx.room.Insert
-import com.example.movierating.data.UserEntity
+import com.example.movierating.data.db.entityRoom.UserEntity
 import androidx.room.Query
 
 @Dao

@@ -2,7 +2,7 @@ package com.example.movierating.data.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.movierating.data.MovieEntity
+import com.example.movierating.data.db.entityRoom.MovieEntity
 import com.example.movierating.data.repository.MovieRepository
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow

@@ -5,14 +5,23 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-
+import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.lifecycle.viewmodel.viewModelFactory
 import com.example.movierating.data.repository.MovieRepository
 import com.example.movierating.ui.theme.MovieRatingAppTheme
 import androidx.lifecycle.viewmodel.initializer
+import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
+import androidx.navigation.navArgument
+import com.example.movierating.data.db.AppDatabase
 import com.example.movierating.data.viewModel.LoginViewModel
 import com.example.movierating.data.viewModel.MainViewModel
+import com.example.movierating.data.viewModel.WatchedViewModel
+import com.example.movierating.ui.screen.LoginScreen
+import com.example.movierating.ui.screen.MainScreen
+import com.example.movierating.ui.screen.WatchedScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -68,7 +77,7 @@ class MainActivity : ComponentActivity() {
                                 @Suppress("UNCHECKED_CAST")
                                 return WatchedViewModel(repo, userId) as T
                             }
-                        }.let { androidx.lifecycle.viewmodel.compose.viewModel(factory = it) }
+                        }.let { viewModel (factory = it) }
                         WatchedScreen(vm = vm, onBack = { nav.popBackStack() })
                     }
                 }
