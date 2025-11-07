@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.stateIn
 
-class WatchedViewModel(private val repo: MovieRepository, userId: Int): ViewModel() {
+class WatchedViewModel( val repo: MovieRepository, userId: Int): ViewModel() {
     val rated: StateFlow<List<RatedMovieRow>> =
         repo.getUserRatedMovies(userId)
             .stateIn(viewModelScope, SharingStarted.WhileSubscribed(5000), emptyList())
